@@ -19,3 +19,8 @@ AI-based attendance system using face detection and recognition.
 ## Impact
 - Eliminates manual attendance
 - Prevents proxy attendance
+
+## Developed By
+Asrritha Rudrani
+
+  -SARS Next Solution
